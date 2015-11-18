@@ -32,6 +32,14 @@ have a runtime dependency on a gem you're curious about. But more importantly
 what those gems are and whether they could benefit from a newer version of that
 gem they depend on, perhaps because it dramatically improves performance?
 
+## Running locally
+
+To run the app locally:
+
+* clone the repo and go in the folder using terminal
+* ```bundle install```
+* ```rackup config.ru```
+
 ## Inspiration
 
 This project was inspired by Richard (@schneems) Schneeman and his blog post
